@@ -1,8 +1,5 @@
 # Project-Management-Dashboard
-Trello clone - Vanilla JS kanban with drag-drop, search, dark mode
-# Project Management Dashboard
-
-Trello-style kanban board built with pure HTML, CSS & JavaScript. No frameworks.
+Trello clone - Vanilla JS kanban with drag-drop, search, dark mode built with pure HTML, CSS & JavaScript. No frameworks.
 
 ## Demo
 [![Live Demo](https://img.shields.io/badge/Demo-Blue?style=flat&logo=vercel)](https://snehasharmaa912-ops.github.io/project-management-dashboard)
