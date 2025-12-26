@@ -1,4 +1,4 @@
-# Project-Management-Dashboard
+# project-management-dashboard
 Trello clone - Vanilla JS kanban with drag-drop, search, dark mode built with pure HTML, CSS & JavaScript. No frameworks.
 
 ## Demo
